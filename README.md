@@ -1,6 +1,6 @@
 # Data Analyst
 
-## Projects
+## Portfolio
 ### Project 1
 - Description
 - Links
