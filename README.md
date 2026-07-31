@@ -1,4 +1,4 @@
-# daugustynska.github.io
+# Data Analyst
 
 ## Projects
 ### Project 1
